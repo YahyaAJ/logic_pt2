@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.logic1,
+.logic2
+{
+    color: #fff;
+    margin: 30px;
+    display: flex;
+}
+.lgc1{
+    margin-right: 50px;
+}
+h1{
+    color: #fff;
+    margin: 30px;
+}
